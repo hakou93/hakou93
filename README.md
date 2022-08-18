@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hakou93
 - 👀 I’m interested in Mobile and Web developement
-- 🌱 I’m currently learning react Native
+- 🌱 I’m currently devoloping a mern full stack mobile app , using react Native with nodeJS express and mongodb
 - 💞️ I’m looking to collaborate on a social media app project
 - 📫 How to reach me Hakou Loulachi facebook
 
